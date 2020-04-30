@@ -1,6 +1,6 @@
 # iamrich
 
-A new Flutter application.
+A complete basic Flutter application.
 
 ## Getting Started
 
